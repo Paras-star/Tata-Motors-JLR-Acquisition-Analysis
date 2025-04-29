@@ -56,4 +56,4 @@ As someone new to financial modeling, I have put in my best effort to build a cl
 
 ## Author
 
-**[Your Name]** – Aspiring finance professional, passionate about learning investment modeling and corporate finance.
+**[Paras Churi]** – Aspiring finance professional, passionate about learning investment modeling and corporate finance.
